@@ -1,4 +1,3 @@
-//NAGATHURAI Visnupriyan - SRIRANJAN Sivakar - MEZAHI Ryan
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
